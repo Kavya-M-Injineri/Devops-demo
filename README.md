@@ -1,6 +1,6 @@
 ### Its my first Devops class
 
-Lets go to basics first
+Let's brush up basics first
 From Gitbash to Github
 
 And we'll learn about CI-CD pipelines
